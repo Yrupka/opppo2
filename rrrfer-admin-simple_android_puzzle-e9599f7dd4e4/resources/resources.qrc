@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/">
+        <file>icons/pets/cat.png</file>
+        <file>icons/pets/dog.png</file>
+        <file>icons/pets/fish.png</file>
+        <file>icons/pets/hen.png</file>
+        <file>icons/pets/mouse.png</file>
+        <file>icons/back.ico</file>
+        <file>icons/help.ico</file>
+        <file>icons/loading.ico</file>
+        <file>icons/next.ico</file>
+        <file>icons/play.ico</file>
+        <file>icons/rotate.ico</file>
+        <file>icons/settings.ico</file>
+        <file>sounds/pets/cat.ogg</file>
+        <file>sounds/pets/dog.ogg</file>
+        <file>sounds/pets/hen.ogg</file>
+        <file>sounds/pets/mouse.ogg</file>
+        <file>f1-help.html</file>
+        <file>icons/rotate_screen</file>
+        <file>fonts/14831.ttf</file>
+    </qresource>
+</RCC>
